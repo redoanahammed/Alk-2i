@@ -1,1 +1,1 @@
-# Alk-2i
+Siox Social [Micro Social Network Platform]. Humans are social creatures. People have lived in groups since ancient times. In today's age of science and technology, everyone is using the Internet. So we have created a platform called Siox Social to protect sociality or keep in touch with each other through internet. Our principle is to protect sociality in people using technology.
